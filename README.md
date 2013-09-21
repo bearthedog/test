@@ -1,6 +1,6 @@
-test
-====
-<html>
+<!doctype html>
+<html lang="en">
+
 <style>
 
 
